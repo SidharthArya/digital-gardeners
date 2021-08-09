@@ -141,5 +141,6 @@ A collective of gardeners publicly tending their digital notes on the interwebs
 | [Oshyan Greene](https://garden.oshyan.com) | Discourse | Productivity, Digital Gardening, Ideas, Reviews, and Recommendations |
 | [Clinton Boys](https://mtsolitary.com) | org-roam + Hugo | Writing, data science, math, life |
 | [David Ralph Lewis](https://notes.davidralphlewis.co.uk) | TiddlyWiki | Writing, poetry, wellbeing, psychology |
-| [Soren Bjornstad](https://zettelkasten.sorenbjornstad.com) | TiddlyWiki + homegrown scripts | Almost everything; emphasis on tech, reading, and how to live |
+| [Soren Bjornstad](https://zettelkasten.sorenbj~ornstad.com) | TiddlyWiki + homegrown scripts | Almost everything; emphasis on tech, reading, and how to live |
 | [Paul Batchelor](https://pbat.ch/wiki) | [WeeWiki](https://pbat.ch/wiki/weewiki) | Computer Music, Audio Programming, Literate Programming, Food |
+| [Sidharth Arya](https://sidhartharya.github.io/braindump) | [Org Roam](https://www.orgroam.com/) + [Hugo](https://gohugo.io/) | Everything. Emphasis on Artificial Intelligence and programming|
